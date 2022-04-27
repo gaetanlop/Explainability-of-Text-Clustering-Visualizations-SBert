@@ -15,7 +15,7 @@ Figure x summarizes the different steps involved in the preprocessing and modeli
 ![<img src="graph.png" width="500"/>](https://github.com/gaetanlop/Explainability-of-Text-Clustering-Visualizations-SBert/blob/main/images/graph.png)
 *Fig : Preprocessing and modeling step for SBERT set up.*
 
-| 0  | 1 |
+|  | 1 |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
